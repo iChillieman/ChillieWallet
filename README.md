@@ -1,4 +1,6 @@
 # ChillieWallet
+The Token and Wallet Smart contracts are designed to work with the ChillieWallet mobile application:
+[ChillieWallet Mobile App - Android](https://github.com/iChillieman/ChillieWalletAndroid)
 
 ERC-20 Token:
 [ChillieToken Contract](https://github.com/iChillieman/ChillieWallet/blob/main/token/ChillieToken.sol)
